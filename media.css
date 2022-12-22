@@ -1,0 +1,11 @@
+@media only screen and (max-width: 992px) {
+    /*slider
+      ============*/
+  
+    img {
+      width: 600px;
+      height: 400px;
+  
+      margin: auto 15px;
+    }
+  }
